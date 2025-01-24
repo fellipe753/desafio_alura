@@ -5,5 +5,3 @@ fellipe
 miu
 ararare
 local
-novamente
-novas linhas para revert
